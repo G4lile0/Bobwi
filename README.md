@@ -2,7 +2,7 @@
 
 ##License
 
-<img src="./images/LICENSE/by-sa.png" width="200" align = "center">
+<img src="./images/by-sa.png" width="200" align = "center">
 
 All these products are released under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
