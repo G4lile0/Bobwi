@@ -7,21 +7,23 @@ www.bq.com/zowi
 http://diwo.bq.com/en/zowi-cc-by-sa/
 
 
-I recomend to use only the first version of the source code.
-
-https://github.com/G4lile0/Bobwi/tree/master/code/v1/
-
-If you want to replicate this dance:
-
-https://youtu.be/4x4xa3OTv4A
+If you want to replicate this dance:  https://youtu.be/4x4xa3OTv4A
 
 First you need to calibrate the servos:
-
 https://github.com/G4lile0/Bobwi/tree/master/code/v1/arduino/v1/calibration
 
 Then use that values, to load the Dance code.
-
 https://github.com/G4lile0/Bobwi/tree/master/code/v1/arduino/v1/smooth_criminal
+
+If you want to control the robot from your Android phone: 
+
+Download the official "Zowi App" from bq
+
+Configure the bluetooth module using this code:
+https://github.com/G4lile0/Bobwi/tree/master/code/v2/arduino/code/hc06_bt_config
+
+Then load the Zowi base v2 software:
+https://github.com/G4lile0/Bobwi/tree/master/code/v2/arduino/code/ZOWI_BASE_v2
 
 
 ##License
