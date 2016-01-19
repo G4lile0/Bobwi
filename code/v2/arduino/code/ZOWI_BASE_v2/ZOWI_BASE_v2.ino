@@ -46,14 +46,15 @@ Zowi zowi;  //This is Zowi!!
           -----   ------
 */
 
-  #define PIN_YL 2 //servo[0]
+  #define PIN_YL 6 //servo[0]
   #define PIN_YR 3 //servo[1]
   #define PIN_RL 4 //servo[2]
   #define PIN_RR 5 //servo[3]
+  
 //---------------------------------------------------------
 
-//---Zowi Buttons
-#define PIN_SecondButton 6
+//---Zowi Buttons original dos 6 tres 7
+#define PIN_SecondButton 14
 #define PIN_ThirdButton 7
 
 
